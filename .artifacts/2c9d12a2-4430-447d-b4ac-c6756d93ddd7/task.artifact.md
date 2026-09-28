@@ -1,0 +1,34 @@
+# Task List - Money Manager App Development
+
+- `[x]` Core Infrastructure
+    - `[x]` Fix SDK 37 Compatibility Errors
+    - `[x]` Setup DataStore for User Preferences
+    - `[x]` Setup Room Database (Transaction, Category, SavingsGoal)
+    - `[x]` Define Material 3 Theme (Colors, Typography)
+- `[x]` UI Implementation - Dashboard (Home)
+    - `[x]` Header & Saldo Hero Card
+    - `[x]` Savings Goal Progress Widget
+    - `[x]` Recent Transactions List (Top 5)
+    - `[x]` Bottom Navigation Bar setup
+- `[x]` UI Implementation - Settings Screen
+    - `[x]` Settings UI Layout (Preferences Groups)
+    - `[x]` Category Management (CRUD UI)
+    - `[x]` App Locking (Biometric/PIN) logic
+    - `[x]` Export/Backup (CSV) Implementation
+    - `[x]` Daily Reminder (WorkManager)
+- `[x]` UI Implementation - Input Form
+    - `[x]` Keypad & Category Selection Grid
+    - `[x]` Toggle Income/Expense
+- `[x]` UI Implementation - Savings Goal & Analytics
+    - `[x]` Savings Goal Progress List
+    - `[x]` Analytics Chart Placeholder
+- `[x]` Functional Logic & Personalization
+    - `[x]` Personalized greeting "Halo, Alghi!"
+    - `[x]` Room Integration for Transactions
+    - `[x]` Real-time balance calculation
+    - `[x]` Bounce animation effect on press
+- `[x]` Verification & Polishing
+    - `[x]` UI/UX Alignment with M3
+- `[ ]` Verification & Polishing
+    - `[ ]` Unit Testing for Calculations
+    - `[ ]` UI/UX Alignment with M3
